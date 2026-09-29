@@ -1,5 +1,5 @@
 # Ledger
-Financial Accounting Software for Cooperatives especially Credit Unions. 
+Financial Accounting Software for Depository Institutions especially Credit Unions. 
 
 It includes Economic and Regulatory Captial features as well as three different accounting Standards: 
 * GAAP_US
